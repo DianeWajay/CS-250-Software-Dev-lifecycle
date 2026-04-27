@@ -3,8 +3,8 @@
 
 This artifact represents my Sprint Review and Retrospective from the SNHU Travel project, where I applied Agile and Scrum practices across multiple roles. Through this project, I gained a deeper understanding of how collaboration, communication, and adaptability impact software development.
 
-****Interpreting User Needs and User Stories
-****
+**Interpreting User Needs and User Stories**
+
 I interpret user needs by breaking them down into smaller, manageable requirements that can be clearly understood and implemented. Creating user stories helps with this because they focus on the user’s perspective rather than just technical requirements. By framing work as “what the user needs” and “why it matters,” user stories make it easier to prioritize features and ensure that development stays aligned with real business value. They also create a shared understanding across the team, which reduces confusion and improves collaboration.
 
 **Approach to Developing Programs and Agile Practices**
